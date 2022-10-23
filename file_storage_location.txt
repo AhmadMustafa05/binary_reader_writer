@@ -1,0 +1,3 @@
+This is the location with respect to this folder, 
+
+/Users/mustafa/Developer/Code/Code/Python/Own\ Projects/binary_reader_writer/binary_storage
