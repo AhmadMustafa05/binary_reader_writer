@@ -1,0 +1,5 @@
+This is the location with respect to this folder, 
+
+Demo- /<username>/<directory in which the program is stored>/binary_reader_writer/binary_storage/<filename>.bin
+
+e
